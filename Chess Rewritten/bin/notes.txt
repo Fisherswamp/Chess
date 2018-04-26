@@ -1,0 +1,3 @@
+currently undo move is not getting back the board history
+i think whole board history needs to be revamped
+when making a new move, only that new move should be compared to old moves for the purposes of threefold repetition
